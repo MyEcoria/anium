@@ -38,7 +38,7 @@ android {
 
 
     defaultConfig {
-        applicationId "co.raiblocksone.pilium"
+        applicationId "co.ananos.anium"
         minSdkVersion 19
         targetSdkVersion 34
         multiDexEnabled true
@@ -76,7 +76,7 @@ android {
     }
 
     ndkVersion "25.1.8937393"
-    namespace 'co.raiblocksone.pilium'
+    namespace 'co.ananos.anium'
     lint {
         disable 'InvalidPackage'
     }

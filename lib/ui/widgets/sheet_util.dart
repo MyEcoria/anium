@@ -114,7 +114,7 @@ class Sheets {
                       child: FractionallySizedBox(
                         widthFactor: 0.95, // 90% de la largeur de l'écran
                         child: WebView(
-                          initialUrl: 'https://nanswap.com/iframe-swap/swap?topUpCurrency=XRO&defaultFrom=XNO&topUpAddress=$customAddress&invitationId=Dault',
+                          initialUrl: 'https://nanswap.com/iframe-swap/swap?topUpCurrency=ANA&defaultFrom=XNO&topUpAddress=$customAddress&invitationId=Dault',
                           javascriptMode: JavascriptMode.unrestricted,
                           backgroundColor: color,
                         ),

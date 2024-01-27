@@ -226,7 +226,7 @@ class AccountDetailsSheet {
                                             ),
                                           ),
                                           TextSpan(
-                                            text: " XRO)",
+                                            text: " ANA)",
                                             style: TextStyle(
                                               color: StateContainer.of(context)
                                                   .curTheme

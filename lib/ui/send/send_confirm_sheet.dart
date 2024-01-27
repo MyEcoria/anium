@@ -171,7 +171,7 @@ class _SendConfirmSheetState extends State<SendConfirmSheet> {
                         text: '',
                         children: [
                           TextSpan(
-                            text: "XRO $amount",
+                            text: "ANA $amount",
                             style: TextStyle(
                               color:
                                   StateContainer.of(context).curTheme.primary,

@@ -1517,7 +1517,7 @@ class _SettingsSheetState extends State<SettingsSheet>
                       AppIcons.swapcurrency,
                       onPressed: () async {
                         // Fonction qui ouvre le lien dans le navigateur par défaut
-                        final url = "https://nanswap.com/fr/raiblocks1-faucet?r=Dault";
+                        final url = "https://nanswap.com/fr/ananos-faucet?r=Dault";
                         if (await canLaunch(url)) {
                           await launch(url);
                         } else {
@@ -1702,7 +1702,7 @@ class _SettingsSheetState extends State<SettingsSheet>
                         AppLocalization.of(context).shareNatrium,
                         AppIcons.share, onPressed: () {
                       Share.share(
-                          "Check out Pilium - RaiBlocksOne Wallet for iOS and Android" +
+                          "Check out Anium - Ananos Wallet for iOS and Android" +
                               " https://raione.cc");
                     }),
                     Divider(

@@ -1,8 +1,8 @@
-Pilium Mobile Application Privacy Policy
+Anium Mobile Application Privacy Policy
 
-Pilium ("Pilium", "we", "our" or "us") respects your privacy and understands that it is important to you. We created this Privacy Policy to explain the types of information we collect through the Kalium and Natrium mobile applications released by us (the "App"), how we will use, disclose and protect this information once it is collected, and how you can opt in or opt out of some of our uses and disclosures of certain information relating to your use of the App.
+Anium ("Anium", "we", "our" or "us") respects your privacy and understands that it is important to you. We created this Privacy Policy to explain the types of information we collect through the Kalium and Natrium mobile applications released by us (the "App"), how we will use, disclose and protect this information once it is collected, and how you can opt in or opt out of some of our uses and disclosures of certain information relating to your use of the App.
 
-THE APP IS OWNED, OPERATED AND RELEASED BY Pilium ONLY. Pilium IS INDEPENDENT OF, AND OPERATES SEPARATELY FROM, ANY SOFTWARE WALLET THAT IS NOT RELEASED BY Pilium (COLLECTIVELY, "SEPARATE TECHNOLOGIES"). FOR THE AVOIDANCE OF DOUBT, Pilium DOES NOT OWN, DEVELOP, OPERATE, MAINTAIN OR SUPPORT ANY OF THE SEPARATE TECHNOLOGIES.
+THE APP IS OWNED, OPERATED AND RELEASED BY Anium ONLY. Anium IS INDEPENDENT OF, AND OPERATES SEPARATELY FROM, ANY SOFTWARE WALLET THAT IS NOT RELEASED BY Anium (COLLECTIVELY, "SEPARATE TECHNOLOGIES"). FOR THE AVOIDANCE OF DOUBT, Anium DOES NOT OWN, DEVELOP, OPERATE, MAINTAIN OR SUPPORT ANY OF THE SEPARATE TECHNOLOGIES.
 
 Please read this Privacy Policy carefully to understand our policies and practices regarding information that we collect through the App about you and your use of the App and how we will treat it. If you do not agree with these policies and practices, do not download or use the App.
 
@@ -14,7 +14,7 @@ What This Privacy Policy Applies To
 
 This Privacy Policy applies only to the App and information that we collect through the App. This Privacy Policy DOES NOT, for example, apply to information that:
 
-● We collect outside of the App, including, without limitation, on or through any other Pilium apps or any Pilium websites (including, without limitation, websites you may access through the App), through our social media pages or other presences on third-party websites, over the phone, by mail or in person; or
+● We collect outside of the App, including, without limitation, on or through any other Anium apps or any Anium websites (including, without limitation, websites you may access through the App), through our social media pages or other presences on third-party websites, over the phone, by mail or in person; or
 
 ● You provide to, or is collected by, any third party.
 
@@ -32,7 +32,7 @@ We may collect information from and about users of the App:
 
 ● Automatically when you use the App.
 
-In general, you should be aware of the following Pilium practices:
+In general, you should be aware of the following Anium practices:
 
 ● The information we collect from you will be transmitted to us and will be processed in the United States. Except to the extent otherwise required by conflicting non-U.S. privacy laws, such information will be protected by United States laws, which may not be as protective as the laws in your country. The United States, European Economic Area Member States, and other countries all have different laws. When your information is moved from your home country to another country, the laws and rules that protect your personal information in the country to which your information is transferred may be different from those in the country in which you live. For example, the circumstances in which law enforcement can access personal information may vary from country to country. In particular, if your information is in the United States, it may be accessed by government authorities in accordance with the laws of the United States and its states.
 
@@ -46,7 +46,7 @@ Clarifications Regarding Certain Information We Do Not Collect or See
 
 ● A "Wallet Seed" is a unique code that is provided to you by the App, through its direct interaction with the Nano/Banano block lattice network (i.e., without our involvement), when you first create a new wallet on the Nano/Banano block lattice network (a "Wallet") using the App. Your Wallet Seed is the only way for you to recover your Wallet on the Nano/Banano block lattice network and access any Nano/Banano currency that you store in your Wallet. Your Wallet Seed is stored on your device and is never sent to us. Therefore, you are solely responsible for the security and safeguarding your Wallet Seed. We do not record, store or have access to your Wallet Seed and we cannot recover it for you if you lose it.
 
-● Any Banano/Nano currency that you choose to hold, store, manage, receive, send or transmit using the App, and any balance or transaction information relating to it, are never held, stored, known, managed, received, sent or transmitted by Pilium. You are solely responsible for the security and privacy of your own Nano currency and information relating to it.
+● Any Banano/Nano currency that you choose to hold, store, manage, receive, send or transmit using the App, and any balance or transaction information relating to it, are never held, stored, known, managed, received, sent or transmitted by Anium. You are solely responsible for the security and privacy of your own Nano currency and information relating to it.
 
 ● We do not track the location of your device through the App.
 
@@ -70,7 +70,7 @@ Notwithstanding anything to the contrary in this Privacy Policy, we may disclose
 
 In addition, we may disclose information (including, without limitation, personal information) that we collect or you provide to us:
 
-● To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of Pilium’s assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by Pilium about the App users is among the assets transferred;
+● To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of Anium’s assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by Anium about the App users is among the assets transferred;
 
 ● To fulfill the purpose(s) for which you provide it;
 
@@ -80,7 +80,7 @@ In addition, we may disclose information (including, without limitation, persona
 
 ● To comply with any court order, law or legal process, including to respond to any government or regulatory request;
 
-● If we believe disclosure is necessary or appropriate to protect the rights, property or safety of Pilium, our customers or others (which includes exchanging information with other companies and organizations for the purposes of fraud protection).
+● If we believe disclosure is necessary or appropriate to protect the rights, property or safety of Anium, our customers or others (which includes exchanging information with other companies and organizations for the purposes of fraud protection).
 
 Data Security
 

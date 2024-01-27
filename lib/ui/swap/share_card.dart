@@ -249,7 +249,7 @@ class _AppShareCardState extends State<AppShareCard> {
                           width: 60,
                           margin: EdgeInsets.only(top: 1),
                           child: AutoSizeText(
-                            "XRO",
+                            "ANA",
                             style: TextStyle(
                               color:
                                   StateContainer.of(context).curTheme.primary,

@@ -281,7 +281,7 @@ class _AppHomePageState extends State<AppHomePage>
     bool contactAdded = await sl.get<SharedPrefsUtil>().getFirstContactAdded();
     if (!contactAdded) {
       bool addressExists = await sl.get<DBHelper>().contactExistsWithAddress(
-          "xro_1rf3e44fqw1sh5i8g7su4pc313t3j31uob8ygsof6cyc539fdg8d9mtdrejs");
+          "ana_1qzr8h75aqwh3cw5ps1r74gcnrss5rrit8s61ewybp1ut8sb6uty58reh8qx");
       if (addressExists) {
         return;
       }
@@ -294,7 +294,7 @@ class _AppHomePageState extends State<AppHomePage>
       Contact c = Contact(
           name: "@MyEcoria",
           address:
-              "xro_1rf3e44fqw1sh5i8g7su4pc313t3j31uob8ygsof6cyc539fdg8d9mtdrejs");
+              "ana_1qzr8h75aqwh3cw5ps1r74gcnrss5rrit8s61ewybp1ut8sb6uty58reh8qx");
       await sl.get<DBHelper>().saveContact(c);
     }
   }
@@ -1162,7 +1162,7 @@ class _AppHomePageState extends State<AppHomePage>
                                   text: '',
                                   children: [
                                     TextSpan(
-                                      text: "XRO " + item.getFormattedAmount(),
+                                      text: "ANA " + item.getFormattedAmount(),
                                       style:
                                           AppStyles.textStyleTransactionAmount(
                                         context,
@@ -1275,7 +1275,7 @@ class _AppHomePageState extends State<AppHomePage>
                               text: '',
                               children: [
                                 TextSpan(
-                                  text: amount + " XRO",
+                                  text: amount + " ANA",
                                   style: AppStyles.textStyleTransactionAmount(
                                     context,
                                   ),
@@ -1335,7 +1335,7 @@ class _AppHomePageState extends State<AppHomePage>
           style: AppStyles.textStyleTransactionWelcome(context),
         ),
         TextSpan(
-          text: "XRO ",
+          text: "ANA ",
           style: AppStyles.textStyleTransactionWelcomePrimary(context),
         ),
         TextSpan(
@@ -1957,7 +1957,7 @@ class _AppHomePageState extends State<AppHomePage>
                                 children: [
                                   // Main balance text
                                   TextSpan(
-                                    text: "XRO " +
+                                    text: "ANA " +
                                         StateContainer.of(context)
                                             .wallet
                                             .getAccountBalanceDisplay(),

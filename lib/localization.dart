@@ -293,7 +293,7 @@ class AppLocalization {
 
   String get welcomeText {
     return Intl.message(
-        "Welcome to  Pilium. To begin, you may create a new wallet or import an existing one.",
+        "Welcome to  Anium. To begin, you may create a new wallet or import an existing one.",
         desc: 'intro_welcome_title',
         name: 'welcomeText');
   }
@@ -324,7 +324,7 @@ class AppLocalization {
   }
 
   String get sendAmountConfirm {
-    return Intl.message("Send %1RaiBlocksOne",
+    return Intl.message("Send %1Ananos",
         desc: 'send_pin_description', name: 'sendAmountConfirm');
   }
 
@@ -370,7 +370,7 @@ class AppLocalization {
   }
 
   String get minimumSend {
-    return Intl.message("Minimum send amount is %1RaiBlocksOne",
+    return Intl.message("Minimum send amount is %1Ananos",
         desc: 'send_minimum_error', name: 'minimumSend');
   }
 
@@ -516,7 +516,7 @@ class AppLocalization {
   }
 
   String get buyCurrency {
-    return Intl.message("Buy RaiBlocksOne",
+    return Intl.message("Buy Ananos",
         desc: 'settings_local_buy', name: 'buyCurrency');
   }
 
@@ -536,12 +536,12 @@ class AppLocalization {
   }
 
   String get shareNatrium {
-    return Intl.message("Share Pilium",
+    return Intl.message("Share Anium",
         desc: 'settings_share', name: 'shareNatrium');
   }
 
   String get shareNatriumText {
-    return Intl.message("Check out Pilium! A premier RaiBlocksOne mobile wallet!",
+    return Intl.message("Check out Anium! A premier Ananos mobile wallet!",
         desc: 'share_extra', name: 'shareNatriumText');
   }
 
@@ -576,7 +576,7 @@ class AppLocalization {
 
   String get logoutDetail {
     return Intl.message(
-        "Logging out will remove your seed and all Pilium-related data from this device. If your seed is not backed up, you will never be able to access your funds again",
+        "Logging out will remove your seed and all Anium-related data from this device. If your seed is not backed up, you will never be able to access your funds again",
         desc: 'settings_logout_alert_message',
         name: 'logoutDetail');
   }
@@ -644,12 +644,12 @@ class AppLocalization {
   }
 
   String get notificationTitle {
-    return Intl.message("Received %1RaiBlocksOne",
+    return Intl.message("Received %1Ananos",
         desc: 'notification_title', name: 'notificationTitle');
   }
 
   String get notificationBody {
-    return Intl.message("Open Pilium to view this transaction",
+    return Intl.message("Open Anium to view this transaction",
         desc: 'notification_body', name: 'notificationBody');
   }
 
@@ -681,7 +681,7 @@ class AppLocalization {
   }
 
   String get kaliumWallet {
-    return Intl.message("Pilium Wallet",
+    return Intl.message("Anium Wallet",
         desc: 'kalium_wallet', name: 'kaliumWallet');
   }
 
@@ -717,13 +717,13 @@ class AppLocalization {
 
   String get transferIntro {
     return Intl.message(
-        "This process will transfer the funds from a paper wallet to your Pilium wallet.\n\nTap the \"%1\" button to start.",
+        "This process will transfer the funds from a paper wallet to your Anium wallet.\n\nTap the \"%1\" button to start.",
         desc: 'transfer_intro',
         name: 'transferIntro');
   }
 
   String get transferQrScanHint {
-    return Intl.message("Scan aRaiBlocksOne \nseed or private key",
+    return Intl.message("Scan aAnanos \nseed or private key",
         desc: 'transfer_qr_scan_hint', name: 'transferQrScanHint');
   }
 
@@ -733,7 +733,7 @@ class AppLocalization {
   }
 
   String get transferNoFunds {
-    return Intl.message("This seed does not have anyRaiBlocksOne on it",
+    return Intl.message("This seed does not have anyAnanos on it",
         desc: 'transfer_no_funds_toast', name: 'transferNoFunds');
   }
 
@@ -741,7 +741,7 @@ class AppLocalization {
 
   String get transferConfirmInfo {
     return Intl.message(
-        "A wallet with a balance of %1RaiBlocksOne has been detected.\n",
+        "A wallet with a balance of %1Ananos has been detected.\n",
         desc: 'transfer_confirm_info_first',
         name: 'transferConfirmInfo');
   }
@@ -766,7 +766,7 @@ class AppLocalization {
 
   String get transferComplete {
     return Intl.message(
-        "%1RaiBlocksOne successfully transferred to your Pilium Wallet.\n",
+        "%1Ananos successfully transferred to your Anium Wallet.\n",
         desc: 'transfer_complete_text',
         name: 'transferComplete');
   }
@@ -781,19 +781,19 @@ class AppLocalization {
   // Scan
 
   String get scanInstructions {
-    return Intl.message("Scan aRaiBlocksOne \naddress QR code",
+    return Intl.message("Scan aAnanos \naddress QR code",
         desc: 'scan_send_instruction_label', name: 'scanInstructions');
   }
 
   /// -- LOCK SCREEN
 
   String get unlockPin {
-    return Intl.message("Enter PIN to Unlock Pilium",
+    return Intl.message("Enter PIN to Unlock Anium",
         desc: 'unlock_kalium_pin', name: 'unlockPin');
   }
 
   String get unlockBiometrics {
-    return Intl.message("Authenticate to Unlock Pilium",
+    return Intl.message("Authenticate to Unlock Anium",
         desc: 'unlock_kalium_bio', name: 'unlockBiometrics');
   }
 
@@ -884,7 +884,7 @@ class AppLocalization {
 
   String get exampleCardIntro {
     return Intl.message(
-        "Welcome to  Pilium. Once you receiveRaiBlocksOne, transactions will show up like this:",
+        "Welcome to  Anium. Once you receiveAnanos, transactions will show up like this:",
         desc: 'example_card_intro',
         name: 'exampleCardIntro');
   }
@@ -926,7 +926,7 @@ class AppLocalization {
 
   String get newAccountIntro {
     return Intl.message(
-        "This is your new account. Once you receiveRaiBlocksOne, transactions will show up like this:",
+        "This is your new account. Once you receiveAnanos, transactions will show up like this:",
         desc: 'Alternate account intro card',
         name: 'newAccountIntro');
   }
@@ -1129,16 +1129,16 @@ class AppLocalization {
 
   /// PARAGRAPS
   String get passwordWillBeRequiredToOpenParagraph {
-    return Intl.message("This password will be required to open  Pilium.",
+    return Intl.message("This password will be required to open  Anium.",
         desc:
-            'A paragraph that tells the users that the created password will be required to open  Pilium.',
+            'A paragraph that tells the users that the created password will be required to open  Anium.',
         name: 'passwordWillBeRequiredToOpenParagraph');
   }
 
   String get passwordNoLongerRequiredToOpenParagraph {
-    return Intl.message("You will not need a password to open Pilium anymore.",
+    return Intl.message("You will not need a password to open Anium anymore.",
         desc:
-            'An info paragraph that tells the user a password will no longer be needed to open Pilium',
+            'An info paragraph that tells the user a password will no longer be needed to open Anium',
         name: 'passwordNoLongerRequiredToOpenParagraph');
   }
 
@@ -1180,9 +1180,9 @@ class AppLocalization {
   }
 
   String get requireAPasswordToOpenHeader {
-    return Intl.message("Require a password to open Pilium?",
+    return Intl.message("Require a password to open Anium?",
         desc:
-            'A paragraph that asks the users if they would like a password to be required to open  Pilium.',
+            'A paragraph that asks the users if they would like a password to be required to open  Anium.',
         name: 'requireAPasswordToOpenHeader');
   }
 
@@ -1230,7 +1230,7 @@ class AppLocalization {
   String get connectingHeader {
     return Intl.message("Connecting",
         desc:
-            'A header to let the user now that Pilium is currently connecting to (or loading) live chat.',
+            'A header to let the user now that Anium is currently connecting to (or loading) live chat.',
         name: 'connectingHeader');
   }
 
@@ -1255,7 +1255,7 @@ class AppLocalization {
   }
 
   String get privacyUrl {
-    return 'https://simplistic-gooseberry-88e.notion.site/Pilium-7591e673348e47fa9274f8d669fbd404';
+    return 'https://simplistic-gooseberry-88e.notion.site/Anium-7591e673348e47fa9274f8d669fbd404';
   }
 
   /// -- END NON-TRANSLATABLE ITEMS
