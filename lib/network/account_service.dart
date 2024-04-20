@@ -40,9 +40,9 @@ import 'package:natrium_wallet_flutter/network/model/response/process_response.d
 import 'package:natrium_wallet_flutter/bus/events.dart';
 
 // Server Connection String
-const String _SERVER_ADDRESS = "ws://193.70.39.143:3001";
-const String _SERVER_ADDRESS_HTTP = "http://193.70.39.143:3001/api";
-const String _SERVER_ADDRESS_ALERTS = "http://193.70.39.143:3001/alerts";
+const String _SERVER_ADDRESS = "wss://anium.myecoria.com";
+const String _SERVER_ADDRESS_HTTP = "https://anium.myecoria.com/api";
+const String _SERVER_ADDRESS_ALERTS = "https://anium.myecoria.com/alerts";
 
 Map decodeJson(dynamic src) {
   return json.decode(src);
